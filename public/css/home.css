@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&display=swap');
+
+
+.margin-top-132 {
+    margin-top: 32px;
+}
+
+.margin-top-228 {
+    margin-top: 228px;
+}
+
+.margin-top-20 {
+    margin-top: 20px;
+}
+
+.margin-top-80 {
+    margin-top: 80px;
+}
+
+.primary-color {
+    color: #F5A13E;
+}
+
+.primary-bg-color {
+    background-color: #F5A13E;
+}
+
+.headline-sub {
+    font-family: 'IBM Plex Mono', monospace;
+    color: white;
+    font-size: 32px;
+    line-height: 44px;
+    color: white;
+}
+
+.headline-title {
+    font-family: 'Fraunces', serif;
+    font-size: 72px;
+    line-height: 96px;
+    color: white;
+    z-index: 1;
+}
+
+.corak {
+    position: absolute; top: 90px; right: 100px; z-index: 0;
+}
+
+#header {
+    background-image: url("../img/hero-bg.png");
+    max-width: 100%;
+    background-size: cover;
+    height: 1024px;
+}
+
+.btn-lets-talk{
+    width: 227px;
+    font-family: 'IBM Plex Mono';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 28px;
+    color: white;
+}
